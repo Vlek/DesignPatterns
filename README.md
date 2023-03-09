@@ -1,4 +1,11 @@
-# DesignPatterns
+# Design Patterns
+
+Design patterns are descriptions of communicating objects and classes that are
+customized to solve a general design problem in a particular context. Meaning,
+they are reusable, tried-and-true methods for overcoming programming problems
+that developers face time and again that allow them to solve the same sorts of
+problems in the same ways without having to constantly reinvent bespoke
+solutions.
 
 ## Main parts of a design pattern:
 
